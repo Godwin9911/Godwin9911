@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Godwin
-- 👀 I’m interested in Mobile and Web Development
+- 👀 I’m a Software Engineer
 
 <!---
 Godwin9911/Godwin9911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
