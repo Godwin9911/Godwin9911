@@ -32,7 +32,7 @@ I'm a passionate software developer with expertise in various technologies. I en
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-47A248?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-47A248?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-47A248?style=for-the-badge&logo=laravel&logoColor=orange)
 
 ### Tools & Platforms
 
