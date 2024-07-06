@@ -1,6 +1,4 @@
-Here's a personalized GitHub README template to showcase your skills and expertise:
 
----
 
 # 👋 Hi, I'm Godwin!
 
@@ -75,8 +73,6 @@ I'm a passionate software developer with expertise in various technologies. I en
 - [Working with Twilio functions](https://yourblog.com/twilio-functions)
 
 ------>
-
-![Thanks](https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif)
 
 ---
 
