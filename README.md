@@ -46,7 +46,7 @@ I'm a passionate software developer with expertise in various technologies. I en
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godwin-agedah/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GodwinAgedahj)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GodwinAgedah)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://godwin9911.github.io/portfolio/)
 
 ---
