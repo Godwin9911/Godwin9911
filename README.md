@@ -59,13 +59,13 @@ I'm a passionate software developer with expertise in various technologies. I en
 
 ---
 
-## 🏆 Achievements
+<!--- ## 🏆 Achievements
 
 - 🎖️ **Certification in [Technology/Field]** from [Institution]
 - 🥇 **Award/Recognition** from [Organization]
 - 🏅 **Completed** [Number] projects on [Platform]
 
----
+--->
 
 ## 📝 Latest Blog Posts
 
