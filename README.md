@@ -4,10 +4,10 @@ Here's a personalized GitHub README template to showcase your skills and experti
 
 # 👋 Hi, I'm Godwin!
 
-![Profile Image](https://via.placeholder.com/150)
+![Profile Image](https://avatars.githubusercontent.com/u/21323660?v=4)
 
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=social) 
-![GitHub stars](https://img.shields.io/github/stars/your-username?style=social) 
+![GitHub followers](https://img.shields.io/github/followers/Godwin9911?style=social) 
+![GitHub stars](https://img.shields.io/github/stars/Godwin9911?style=social) 
 
 ---
 
@@ -15,10 +15,10 @@ Here's a personalized GitHub README template to showcase your skills and experti
 
 I'm a passionate software developer with expertise in various technologies. I enjoy building efficient and dynamic applications that solve real-world problems. Here's a bit more about me:
 
-- 🔭 Currently working on: [Current Project]
-- 🌱 Learning: [New Technology or Skill]
+- 🔭 Currently working on: fexspace.com
+- 🌱 Learning: GoLang
 - 💬 Ask me about: React, Electron, Twilio, MongoDB, and more!
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: agedah99@gmail.com
 
 ---
 
@@ -45,17 +45,17 @@ I'm a passionate software developer with expertise in various technologies. I en
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godwin-agedah/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GodwinAgedahj)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.linkedin.com/in/godwin-agedah/)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Godwin9911&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godwin9911&layout=compact&theme=radical)
 
 ---
 
