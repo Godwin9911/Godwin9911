@@ -4,7 +4,7 @@ Here's a personalized GitHub README template to showcase your skills and experti
 
 # 👋 Hi, I'm Godwin!
 
-![Profile Image](https://avatars.githubusercontent.com/u/21323660?v=4)
+<!--- ![Profile Image](https://avatars.githubusercontent.com/u/21323660?v=4) -->
 
 ![GitHub followers](https://img.shields.io/github/followers/Godwin9911?style=social) 
 ![GitHub stars](https://img.shields.io/github/stars/Godwin9911?style=social) 
@@ -53,7 +53,8 @@ I'm a passionate software developer with expertise in various technologies. I en
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Godwin9911&show_icons=true&theme=radical)
+<!--
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Godwin9911&show_icons=true&theme=radical) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godwin9911&layout=compact&theme=radical)
 
@@ -65,7 +66,7 @@ I'm a passionate software developer with expertise in various technologies. I en
 - 🥇 **Award/Recognition** from [Organization]
 - 🏅 **Completed** [Number] projects on [Platform]
 
---->
+
 
 ## 📝 Latest Blog Posts
 
@@ -73,7 +74,7 @@ I'm a passionate software developer with expertise in various technologies. I en
 - [Effective Kanban board management](https://yourblog.com/kanban-board-management)
 - [Working with Twilio functions](https://yourblog.com/twilio-functions)
 
----
+------>
 
 ![Thanks](https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif)
 
