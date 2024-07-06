@@ -13,7 +13,7 @@
 
 I'm a passionate software developer with expertise in various technologies. I enjoy building efficient and dynamic applications that solve real-world problems. Here's a bit more about me:
 
-- 🔭 Currently working on: [fexspace.com](https://fexspace.com/ng) and [https://invexerp.com/](https://invexerp.com/)
+- 🔭 Currently working on: [Fexspace](https://fexspace.com) and [InvexERP](https://invexerp.com/)
 - 🌱 Learning: Go
 - 💬 Ask me about: React, Electron, Twilio, MongoDB, and more!
 - 📫 How to reach me: agedah99@gmail.com
