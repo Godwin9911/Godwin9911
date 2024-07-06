@@ -13,7 +13,7 @@
 
 I'm a passionate software developer with expertise in various technologies. I enjoy building efficient and dynamic applications that solve real-world problems. Here's a bit more about me:
 
-- 🔭 Currently working on: fexspace.com
+- 🔭 Currently working on: [fexspace.com](https://fexspace.com/ng) and [https://invexerp.com/](https://invexerp.com/)
 - 🌱 Learning: GoLang
 - 💬 Ask me about: React, Electron, Twilio, MongoDB, and more!
 - 📫 How to reach me: agedah99@gmail.com
@@ -31,6 +31,8 @@ I'm a passionate software developer with expertise in various technologies. I en
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PHP](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Tools & Platforms
 
@@ -56,7 +58,6 @@ I'm a passionate software developer with expertise in various technologies. I en
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godwin9911&layout=compact&theme=radical)
 
----
 
 <!--- ## 🏆 Achievements
 
@@ -73,11 +74,6 @@ I'm a passionate software developer with expertise in various technologies. I en
 - [Working with Twilio functions](https://yourblog.com/twilio-functions)
 
 ------>
-
----
-
-Feel free to customize this template further with your specific details and achievements!
-
 
 <!---
 Godwin9911/Godwin9911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
