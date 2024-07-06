@@ -14,7 +14,7 @@
 I'm a passionate software developer with expertise in various technologies. I enjoy building efficient and dynamic applications that solve real-world problems. Here's a bit more about me:
 
 - 🔭 Currently working on: [fexspace.com](https://fexspace.com/ng) and [https://invexerp.com/](https://invexerp.com/)
-- 🌱 Learning: GoLang
+- 🌱 Learning: Go
 - 💬 Ask me about: React, Electron, Twilio, MongoDB, and more!
 - 📫 How to reach me: agedah99@gmail.com
 
@@ -31,8 +31,8 @@ I'm a passionate software developer with expertise in various technologies. I en
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-47A248?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-47A248?style=for-the-badge&logo=laravel&logoColor=orange)
+![PHP](https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Tools & Platforms
 
