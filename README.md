@@ -65,15 +65,12 @@ I'm a passionate software developer with expertise in various technologies. I en
 - 🥇 **Award/Recognition** from [Organization]
 - 🏅 **Completed** [Number] projects on [Platform]
 
-
+------>
 
 ## 📝 Latest Blog Posts
 
-- [How to build dynamic lists with React](https://yourblog.com/dynamic-lists-react)
-- [Effective Kanban board management](https://yourblog.com/kanban-board-management)
-- [Working with Twilio functions](https://yourblog.com/twilio-functions)
-
------->
+- [How to Track the Conversion Rate of Incoming SMS via a Link Using Google Analytics](https://www.twilio.com/en-us/blog/track-conversion-rate-incoming-sms-via-link-google-analytics)
+- [Dev.to](https://dev.to/godwinagedah)
 
 <!---
 Godwin9911/Godwin9911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
