@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Godwin!
 
-<!--- ![Profile Image](https://avatars.githubusercontent.com/u/21323660?v=4) -->
+![Profile Image](https://avatars.githubusercontent.com/u/21323660?v=4)
 
 ![GitHub followers](https://img.shields.io/github/followers/Godwin9911?style=social) 
 ![GitHub stars](https://img.shields.io/github/stars/Godwin9911?style=social) 
